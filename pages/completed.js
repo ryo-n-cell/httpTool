@@ -1,5 +1,5 @@
-import Todos from '../components/Todos'
+import Todos from "../components/todos";
 
 export default function Completed() {
-  return <Todos page="completed"/>
+  return <Todos page="completed" />;
 }

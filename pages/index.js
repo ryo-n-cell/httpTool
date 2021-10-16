@@ -1,5 +1,5 @@
-import Todos from '../components/Todos'
+import Todos from "../components/todos";
 
 export default function Index() {
-  return <Todos page="index"/>
+  return <Todos page="index" />;
 }
